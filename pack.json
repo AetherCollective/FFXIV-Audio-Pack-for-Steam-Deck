@@ -1,0 +1,10 @@
+{
+  "name": "FFXIV Audio Pack",
+  "description": "An audio pack containing some of FFXIV's sound fx.",
+  "author": "AetherCollective",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
